@@ -41,23 +41,7 @@ serveur : le site est un ensemble de fichiers, servis tels quels.
 
 ---
 
-## Trois partis pris
-
-### Aucune donnée inventée
-
-C'est le site officiel d'une autrice publiée : un ISBN approximatif finit dans
-les données structurées lues par Google, une date de dédicace erronée fait se
-déplacer un lecteur pour rien.
-
-Chaque éditeur, date de parution et ISBN a donc été vérifié sur une fiche
-éditeur ou un catalogue libraire, un par un. Les synopsis sont reformulés à
-partir des résumés officiels. **Quand une information n'était pas vérifiable,
-le champ est resté vide** — l'agenda l'est encore aujourd'hui, faute de dates
-confirmées, et la page le dit en renvoyant vers Instagram.
-
-Les 21 liens d'achat ont été ouverts dans un navigateur et renvoient le bon
-titre. Un contrôle automatique vérifie que chaque ISBN des données correspond
-à un ISBN des liens, et réciproquement.
+## Les partis pris
 
 ### Zéro cookie, zéro traceur
 
